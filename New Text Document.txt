@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>Dashavatar</title>
+<style type="text/css">
+h1{
+  color:red;
+  font-style:italic;
+  background-color:yellow;
+padding-top:20px;
+padding-bottom:20px
+}
+body{
+background-image:url("");
+}
+p{
+   color:black;
+   font-style:italic;
+   font-family:algerian;
+</style>
+</head>
+<body bgcolor="orange" link="green" alink="pink" vlink=="red">
+<h1 align="center">Dashavatar Of Lord Vishnu</h1>
+<img src="dash2.gif" width="30%" height="60%">
+<img src="dash.gif" width="39%" height="60%">
+<img src="dash3.gif" width="30%" height="60%">
+
+<b><h3>Dashavatar:</h4></b>
+
+<p>
+
+Dashavatar is the all-encompassing epic that celebrates the recurring triumph of good over evil – tenfold!
+
+The 9 avatars so far are Matsya (fish), Kurma (tortoise), Varaha (boar), Narasimha (half-man, half-lion), Vamana (dwarf man), Parshurama (man with an axe), Rama (moral man), Krishna (philosophical man). The ninth avatar is gautam buddha. The tenth avatar, Kalki is yet to manifest. 
+ 
+The explanation of all the dashavatr is given below:
+<h3>Click on Image or Link To See More</h3>
+
+</p>
+<table width="100%" height="70%">
+  <tr>
+<ul type="disc">
+ <td><li><pre>First Avatar of Lord Vishn-<h3><a href="10avatar-page/avt1-page.html">Matsya the fish</a></h3></pre><br>
+<a href="10avatar-page/avt1-page.html"><img src="10avatar-image/avt1.jpg" width="300" height="300"></a></td>
+
+<td align="center"><h2>Geeta-Saar</h2>
+         <p>If you look at what you do not have in life,</br>
+         You dont have anything.</br>
+         If you look at what you have in life,</br>
+         You have EVERYTHING.</p></td>  
+
+<td align="right"><li><pre>Second Avatar of Lord Vishnu-<h3><a href="10avatar-page/avt2-page.html">Kurma  the Tortoise</a></h3></pre><br>
+<a href="10avatar-page/avt2-page.html"><img src="10avatar-image/avt2.jpg" width="300" height="300"></a></td>
+</tr>
+<tr>
+    <td><li><pre>Third Avatar of Lord Vishnu-<h3><a href="10avatar-page/avt3-page.html">Varaha The Boar</a></h3></pre><br>
+   <a href="10avatar-page/avt3-page.html"><img src="10avatar-image/avt3.jpg" width="300" height="300"></a></td>
+
+  <td align="center"><p>What have you lost for which you cry?</br>
+         What did you bring with, which you have lost?</br>
+         What did you produce, which has been destroyed?</br>
+         You did not bring anything, when you were born.</p></td>
+  
+   <td align="right"><pre><li>forth Avatar of Lord Vishnu-<a href="10avatar-page/avt4-page.html"><h3>Narashima  giant lion-man</a></h3></pre><br>
+    <a href="10avatar-page/avt4-page.html"><img src="10avatar-image/avt4.jpg" width="300" height="300"></a></td>
+</tr>
+<tr>
+    <td><li><pre>Fifth Avatar of Lord Vishnu-<h3><a href="10avatar-page/avt5-page.html">Vamana  the dwarf</a></h3></pre><br>
+    <a href="10avatar-page/avt5-page.html"><img src="10avatar-image/avt5.jpg" width="300" height="300"></a></td>
+
+<td align="center"><p>You have came empty handed and you will go the same way</br>
+         Whatever is yours today was somebody else's yesterday.</br>
+         And will be somebody else's tomorrow.</br>
+         Change is the Law of the Universe.</p></td>
+
+   <td align="right"><pre><li>Sixth Avatar of Lord Vishnu-<h3><a href="10avatar-page/avt6-page.html">Parshurama with the Axe</a></h3></pre><br>
+   <a href="10avatar-page/avt6-page.html"><img src="10avatar-image/avt6.jpg" width="300" height="300"></a></td>
+</tr>
+<tr>
+   <td><pre><li>Seventh Avatar of Lord Vishnu-<h3><a href="10avatar-page/avt7-page.html">Sri Rama</a></h3></pre><br>
+   <a href="10avatar-page/avt7-page.html" onmouseover="js1.src='10avatar-image/avt7.jpg';" onmouseout="js1.src='10avatar-image/avt7.gif';"><img name="js1" src="10avatar-image/avt7.gif" width="300" height="300"></a></td>
+
+<td align="center"><img src="geetac.jpg"></td>
+
+   <td align="right"><pre><li>Eighth Avatar of Lord Vishnu-<h3><a href="10avatar-page/avt8-page.html">Sri Krishna In Mahabharat</a></h3></pre><br>
+   <a href="10avatar-page/avt8-page.html" onmouseover="mouse1.src='10avatar-image/avt81.gif';" onmouseout="mouse1.src='10avatar-image/avt8.gif';"><img name="mouse1" src="10avatar-image/avt8.gif" width="300" height="300"></a></td>
+</tr>
+<tr>
+    <td><pre><li>Ninth Avatar of Lord Vishnu-<h3><a href="10avatar-page/avt9-page.html">Buddha</a></h3></pre><br>
+    <a href="10avatar-page/avt9-page.html"><img src="10avatar-image/avt9.jpg" width="300" height="300"></a></td>
+
+<td align="center"><img src="geetac2.jpg" width="400" height="225"></td>
+
+    <td align="right"><pre><li>Tenth Avatar of Lord Vishnu-<h3><a href="10avatar-page/avt10-page.html">Kalki-next Avatar of Vishnu.</a></h3></pre><br>
+    <a href="10avatar-page/avt10-page.html"><img src="10avatar-image/avt10.gif" width="300" height="300"></a></td>
+</tr>
+</table>
+<H1 align="center"font face = "Algerian"><font size = "10"> Entertainment</font></font></H1>
+<ul type="square">
+	
+            <li><a href="funny/funny.html"><h3>Funny.....</h3></a>
+	<li><a href="7-wonder/7 wonders.html"><h3>7 wonders of Earth..</h3></a>
+	<li><a href="sketch/sketch.html"><h3>Sketches...</h3></a>
+	<li><a href="3d-art/3-D arts.html"><h3>3-D Arts....</h3></a>
+
+</ul>
+<i><b>Made By:</b><br>
+<font size="5">
+Nitesh Mishra (IC-2k9-54)<img src="10avatar-image/nitesh.gif" width="50" height="20"><br>
+Rahul Sagore (IC-2k9-74)<img src="10avatar-image/rahul.gif" width="50" height="20"><br>
+Piyush Sharma (IC-2k9-)<img src="10avatar-image/piyush.gif" width="50" height="20"></br>
+Ritesh Savita (IC-2k9-79)<img src="10avatar-image/ritesh.gif" width="50" height="20"><br>
+</i>
+</body>
+</html>

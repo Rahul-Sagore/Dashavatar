@@ -1,0 +1,22 @@
+body{
+background-image:url(orange.jpg)
+}
+h1{
+  color:red;
+  font-style:italic;
+  background-color:yellow;
+padding-top:20px;
+padding-bottom:20px
+}
+
+p{
+   color:black;
+   font-weight:bold
+   
+ }
+ #logo{
+   margin-top: 0px;
+   }
+#front{
+    margin-top:80px;   
+}
